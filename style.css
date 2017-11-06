@@ -454,11 +454,14 @@ img.hover-shadow {
 
 #tech-skills-exp{
     text-align: center; 
-    padding-right: 20%; 
-    padding-left: 20%;
 }
 
 .professional p {
     font-size: 1.1em;
+}
+
+#tech-skills-exp img {
+    display: block;
+    margin: 0 auto;
 }
 
