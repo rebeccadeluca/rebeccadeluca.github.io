@@ -11,7 +11,7 @@ body {
 
 .text-vertical-center {
     display: table-cell;
-    text-align: center;
+    /*text-align: center;*/
     vertical-align: middle;
 }
 
