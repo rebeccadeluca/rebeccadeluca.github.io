@@ -6,20 +6,24 @@ body {
 }
 
 body {
-    font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Open Sans Condensed', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 .text-vertical-center {
     display: table-cell;
-    /*text-align: center;*/
     vertical-align: middle;
 }
 
 .text-vertical-center h1 {
     font-size: 4.5em;
-    font-weight: 700;
+    font-weight: 400;
     margin: 0;
     padding: 0;
+}
+
+p {
+  font-family: 'Helvetica Neue';
+  font-size: 1.1em;
 }
 
 
@@ -456,10 +460,6 @@ img.hover-shadow {
     text-align: center; 
 }
 
-.professional p {
-    font-size: 1.1em;
-}
-
 #tech-skills-exp img {
     display: block;
     margin: 0 auto;
@@ -467,5 +467,9 @@ img.hover-shadow {
 
 .tech-skills {
   padding-top: 30px;
+}
+
+#about-becca {
+  font-size: 1.2em;
 }
 
